@@ -62,3 +62,6 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
